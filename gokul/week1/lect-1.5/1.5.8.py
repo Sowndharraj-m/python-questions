@@ -3,3 +3,5 @@
 #     how is the weather in sathy?
 #     ```
 #     NOTE : no space between 'sathy' and '?'
+n = str(input())
+print(n,"how is the weater in sathy")

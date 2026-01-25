@@ -7,3 +7,5 @@
 # print["hello"]
 # print<"hello">
 # ```
+
+# 4 and 5 are only allowed.

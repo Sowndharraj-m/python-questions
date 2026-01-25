@@ -3,3 +3,7 @@
 # LINE-1
 # LINE-2
 # ```
+
+a = input(int())
+b = int(a * a)
+print(b)

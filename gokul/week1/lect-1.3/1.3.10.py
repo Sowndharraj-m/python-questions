@@ -11,3 +11,8 @@
 # print('my name is "Gokul')
 # print('i like 'red' color')
 # ```
+
+print("I'm from sathy")
+print("my name is Gokul")
+print("i like 'red' clour")
+

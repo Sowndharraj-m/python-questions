@@ -3,3 +3,6 @@
 #     n=input()
 #     n=int(input())
 #     ```
+
+#1st is taking radom data type 
+#2nd specifically for int values

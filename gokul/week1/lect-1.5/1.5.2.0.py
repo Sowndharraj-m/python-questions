@@ -7,3 +7,7 @@
 # print(n/2)
 # print(n-n)
 #     ```
+
+n=input()
+a = n
+print(a / 2)

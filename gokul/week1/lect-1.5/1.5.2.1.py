@@ -3,3 +3,8 @@
 #     n=input()
 #     print(n*n)
 #     ```
+
+n = 3
+if n > 0:
+ n = n*n
+print(n)

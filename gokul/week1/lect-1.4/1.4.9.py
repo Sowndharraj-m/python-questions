@@ -2,3 +2,7 @@
 # ```
 # LINE-1
 # print(a*2)
+
+a = str()
+print('a'*2)
+

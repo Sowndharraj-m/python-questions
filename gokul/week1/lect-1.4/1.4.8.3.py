@@ -11,3 +11,8 @@ z=10.5
 
 
 # convert z to an integer
+
+str
+y=10.5
+float
+z=10

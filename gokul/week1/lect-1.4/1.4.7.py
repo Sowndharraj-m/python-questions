@@ -7,3 +7,11 @@
 # print(n+2)
 # print(n+3)
 # ```
+
+The output is based on the n value for a eg 
+n=0 means 
+output :
+    0
+    1
+    3
+    4

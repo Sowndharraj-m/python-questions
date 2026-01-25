@@ -2,3 +2,5 @@
 #     ```
 #     name="gokul"
 #     ```
+#variable = name 
+#lit = "gokul"

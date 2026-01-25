@@ -8,4 +8,9 @@ place="sathy"
 
 # gokul of age 25 is from sathy
 
+t1 = "name is {fname}".format(fname = "gokul")
+t2 = "age {fage}".format(fage = 25)
+t3 = "from {fcity}".format(fcity = "sathy")
+print(t1,t2,t3)
+
 
