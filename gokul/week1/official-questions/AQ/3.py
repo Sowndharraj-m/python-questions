@@ -6,3 +6,6 @@
 # outcome of a coin toss
 # outcome of a tennis match
 # nodding your head
+
+# Answer: 
+# boolean
