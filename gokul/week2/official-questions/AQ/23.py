@@ -4,6 +4,6 @@
 paragraph = input("Enter a paragraph: ")
 
 # Count the number of full stops (sentences)
-sentence_count = paragraph.count('.')
+sentence_count = paragraph.count('a')
 
 print("Number of sentences:", sentence_count)
