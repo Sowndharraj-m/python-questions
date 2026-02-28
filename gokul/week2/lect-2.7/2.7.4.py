@@ -9,6 +9,10 @@ INPUT : 'gokul'
 OUTPUT : 'hplvm'
 '''
 
+print(alpha[i+1])
+
+
+
 # testcase 2
 '''
 INPUT: 'abcde'
