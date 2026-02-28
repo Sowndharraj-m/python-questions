@@ -1,4 +1,14 @@
-count = range(1,4)
+num = int(input("Enter a number: "))
+list1 = [num]
+# print(list1)
+reverse = 0
+while num != 0:
+      reverse = reverse * 10 + num % 10
+      num = num // 10
+list2 = [reverse]
+print(list2)
 
-for i in count:
-    print(i)
+if list1 == list2:
+      print("Palindrome")
+else:
+      print("Not a Palindrome")
