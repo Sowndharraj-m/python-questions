@@ -1,6 +1,7 @@
 ## What will be the outcome of the following expression if x and y are two strings?
 
 # len(x) + len(y) == len(x+y)
+print(len("2"))
 print(len("2") + len("3") == len("2" + "3"))
 # Answer: 
 # True

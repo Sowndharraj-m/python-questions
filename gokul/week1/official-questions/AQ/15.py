@@ -9,3 +9,4 @@
 
 Word = input()
 print(Word[0] == Word[-1])
+

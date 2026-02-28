@@ -6,11 +6,6 @@ x = int(input())
 print(int(str(x) + "0"))
 
 
-
-# Thought for <1s
-
-# Let me break it down step by step:
-
 # print(int(str(x) + "0"))
 # Working from the inside out, let's say x = 5:
 

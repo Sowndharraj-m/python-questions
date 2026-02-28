@@ -2,7 +2,7 @@
 x="hello"
 print(type(x))
 
-y="10.5"
+y="10"
 # convert y's datatype to  float
 
 

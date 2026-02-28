@@ -5,5 +5,5 @@
 # ```
 
 a = input(int())
-b = int(a * a)
+b = a*a
 print(b)
