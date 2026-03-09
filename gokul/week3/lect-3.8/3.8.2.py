@@ -2,7 +2,11 @@
 
 '''
 for i in range(1,11):
-    if(i%2!=0):
-        print(i)
+    if(x%2!=0):
+        print(x)
 '''
 # Name error : The loop variable is i, but inside the loop, x is used instead. Since x is never defined, this code will throw a NameError.
+
+for i in range(1,11):
+    if (i%2!=0):
+        print(i)

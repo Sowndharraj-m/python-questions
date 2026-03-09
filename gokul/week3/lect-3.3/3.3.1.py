@@ -2,8 +2,9 @@
 
 num = 10
 count = 0
-while(num!=25):
-    count = count + 1
-    print(num,end=" ")
-    num+=1
-print("\n",count)
+while num < 25:
+    print(num)
+    count += 1
+    num += 1 
+print("Total numbers printed:", count)
+print(num)

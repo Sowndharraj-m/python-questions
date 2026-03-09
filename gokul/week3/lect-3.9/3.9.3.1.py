@@ -1,7 +1,8 @@
 # modify the  code so that the output is as below
 
-for i in range(10):
-    print(f'1 x [i] = (i)')
+for i in range(2,11):
+    # print(f'1 x [i] = (i)')
+    print(f'1 * {i} = {i}')
 
 # output:
 '''
@@ -16,3 +17,21 @@ for i in range(10):
 1 x 10 = 10
 
 '''
+
+# print(f'1 x [i] = (i)')
+# [i] → Python thinks this is just text
+# (i) → also just text
+
+# print(f"1 x {i} = {i}")
+# {i} → Python replaces it with the value of i
+
+"This string contains variables inside {}. Replace them with their values."
+# f = format the string
+
+# It allows you to insert:
+
+# Variables
+
+# Calculations
+
+# Expressions

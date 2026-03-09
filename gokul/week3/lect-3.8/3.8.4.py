@@ -1,7 +1,14 @@
 # print all the letters of 'chennai' in a separate line using for loop
 
-str = "chennai"
+# text = 'chenni'
+# # print(text)
 
-while(len(str)!=0):
-    print(str[0])
-    str = str[1:]
+# for x in text:
+#     print(x)
+
+text = 'chennai'
+l = len(text)
+print(l)
+
+for i in range(7):
+    print(text[i])

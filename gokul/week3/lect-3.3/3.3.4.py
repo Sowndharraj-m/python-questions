@@ -6,3 +6,6 @@
 # To stop the program manually, press Ctrl + C in the terminal
 # This will raise a KeyboardInterrupt and stop the program
 
+while True:
+    print("hi")
+    # break 
