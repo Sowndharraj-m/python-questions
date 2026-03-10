@@ -1,6 +1,6 @@
 # Program to find all prime numbers from 1 to 10
 
-for num in range(1, 16):
+for num in range(9):
     if num <= 1:
         continue
     is_prime = True
